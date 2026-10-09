@@ -108,7 +108,7 @@ Developed a domain-trained AI search engine and WhatsApp chatbot with a 5-catego
 
 | Role | Organization | Duration |
 |---|---|---|
-| AI/ML Intern | Odisha Knowledge Corporation Limited (OKCL), Bhubaneswar | 2025 – Present |
+| AI/ML Intern | Odisha Knowledge Corporation Limited (OKCL), Bhubaneswar | 2026 |
 | AI/ML Intern | Odisha Computer Application Centre, Bhubaneswar | 2024 |
 | Technical Support Intern | Dhamra Port Company Limited, Bhadrak | 2023 |
 
